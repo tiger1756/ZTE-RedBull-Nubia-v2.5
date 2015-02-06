@@ -996,7 +996,7 @@
     <string name="capital_on">ВКЛ</string>
     <string name="capital_off">ВЫКЛ</string>
     <string name="whichApplication">Что использовать?</string>
-    <string name="whichHomeApplication">Выберите Домашнюю страницу приложения</string>
+    <string name="whichHomeApplication">Выберите рабочий стол</string>
     <string name="alwaysUse">По умолчанию для этого действия</string>
     <string name="clearDefaultHintMsg">Удаляет настройки по умолчанию в меню \"Настройки > Приложения > Загруженные\".</string>
     <string name="chooseActivity">Выберите действие</string>
