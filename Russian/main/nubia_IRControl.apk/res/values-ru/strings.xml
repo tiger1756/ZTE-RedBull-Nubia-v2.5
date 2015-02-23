@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="update_version">Обновить версию</string>
     <string name="update_version_sum">Проверить и обновить версию</string>
@@ -196,13 +196,13 @@ SIZE"</string>
     <string name="new_build">Создать</string>
     <string name="haschoose">Выбрано (%d)</string>
     <string name="delete_dialog_tip">Вы хотите удалить %s？</string>
-    <string name="delete_dialog_tip2">Выхотите удалить это %d устойство？</string>
+    <string name="delete_dialog_tip2">Вы хотите удалить это %d устойство？</string>
     <string name="select_all">Выбрать все</string>
     <string name="unselect_all">Отменить все</string>
     <string name="show_unSuccess">Количество пультов дистанционного управления достигло 15, удалите ненужные перед добавлением новых</string>
     <string name="custom_remote">Клонировать пульт ДУ</string>
     <string name="fix_remote">Исправить пульт ДУ</string>
-    <string name="clone_introduce">Следуя кнопке динамической мигающей, нажмите соответствующую кнопку на пульте дистанционного управления.</string>
+    <string name="clone_introduce">Соответственно динамично мигающей кнопке, нажмите соответствующую кнопку на пульте дистанционного управления.</string>
     <string name="fix_introduce">После выбора редактируемой кнопки, нажмите соответствующую кнопку на пульте дистанционного управления.</string>
     <string name="tiptitle">Вы начнете клонирование функций пульта ДУ</string>
     <string name="tip1">1、Нажмите на панели кнопку, которую вы хотите обучить, напраьте телефон и пульт друг на друга, и нажмите и держите нужную кнопку на ПДУ.</string>
@@ -224,7 +224,7 @@ SIZE"</string>
     <string name="warning">Внимание</string>
     <string name="search">Поиск</string>
     <string name="type_introduce">Нужен поиск модели? Если да, выберите соответствующую.</string>
-    <string name="aircon_type">Пожалуйста, введите модели кондиционера</string>
+    <string name="aircon_type">Пожалуйста, введите модель кондиционера</string>
     <string name="validate_empty">Не выбрана модель!</string>
     <string name="validate_onlyone">Пожалуйста, введите не менее двух символов для поиска!</string>
     <string name="search_result">Результаты запроса</string>
