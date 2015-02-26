@@ -1949,8 +1949,6 @@
     <string name="prompt_user">Подсказка Пользователя</string>
     <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
     <string name="selinux_status_disabled">Отключено</string>
-    <string name="selinux_status_permissive">Только предупреждение</string>
-    <string name="selinux_status_enforcing">Блокировка</string>
     <string name="ssl_ca_cert_warning">Действия в сети могут отслеживаться</string>
     <string name="done_button">Готово</string>
     <string name="ssl_ca_cert_dialog_title">Мониторинг сети</string>

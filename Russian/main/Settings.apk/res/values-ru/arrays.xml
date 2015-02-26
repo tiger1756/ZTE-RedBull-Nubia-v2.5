@@ -9,12 +9,6 @@
         <item>Тихий океан</item>
         <item>Все</item>
     </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 сек.</item>
         <item>30 сек.</item>
