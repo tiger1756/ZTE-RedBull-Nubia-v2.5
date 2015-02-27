@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_playlist_create_text_prompt">Назва плейлисту</string>
+    <string name="rename_playlist_same_prompt">Перейменувати \"%s\" в</string>
+    <string name="rename_playlist_diff_prompt">Перейменувати \"%s\" в</string>
+</resources>

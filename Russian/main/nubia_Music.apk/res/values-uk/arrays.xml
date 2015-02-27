@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="content_str_array">
+        <item>Не встановлений</item>
+        <item>10 хвилин</item>
+        <item>30 хвилин</item>
+        <item>60 хвилин</item>
+        <item>90 хвилин</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 тиждень</item>
+        <item>2 тижні</item>
+        <item>3 тижні</item>
+        <item>4 тижні</item>
+        <item>5 тижнів</item>
+        <item>6 тижнів</item>
+        <item>7 тижнів</item>
+        <item>8 тижнів</item>
+        <item>9 тижнів</item>
+        <item>10 тижнів</item>
+        <item>11 тижнів</item>
+        <item>12 тижнів</item>
+    </string-array>
+    <string-array name="download_quality_array">
+        <item>Відмінна якість</item>
+        <item>Звичайна якість</item>
+    </string-array>
+    <string-array name="playlist_operation">
+        <item>Відкрити</item>
+        <item>Програвати</item>
+        <item>Видалити</item>
+        <item>Перейменувати</item>
+    </string-array>
+    <string-array name="playlist_song_operation">
+        <item>Видалити з плейлисту</item>
+    </string-array>
+    <string-array name="song_operation">
+        <item>Додати в</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="folder_operation">
+        <item>Відкрити</item>
+        <item>Програвати</item>
+        <item>Видалити</item>
+    </string-array>
+    <string-array name="ark_playpage_more">
+        <item>Поділитися</item>
+        <item>Зберігти</item>
+        <item>На виклик</item>
+        <item>Видалити</item>
+        <item>Еквалайзер</item>
+        <item>Інформація</item>
+        <item>Вихід</item>
+    </string-array>
+    <string-array name="ark_playpage_more_online">
+        <item>Поділитися</item>
+        <item>Зберігти</item>
+        <item>На виклик</item>
+        <item>Еквалайзер</item>
+        <item>Інформація</item>
+        <item>Вихід</item>
+    </string-array>
+    <string-array name="ark_playpage_more_radio">
+        <item>Вихід</item>
+    </string-array>
+</resources>
